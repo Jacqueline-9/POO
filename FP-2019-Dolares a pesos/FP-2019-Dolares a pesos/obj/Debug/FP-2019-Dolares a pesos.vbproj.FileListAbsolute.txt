@@ -1,0 +1,9 @@
+E:\Visual Studio\2 Problemas\FP-2019-Dolares a pesos\FP-2019-Dolares a pesos\bin\Debug\FP-2019-Dolares a pesos.exe.config
+E:\Visual Studio\2 Problemas\FP-2019-Dolares a pesos\FP-2019-Dolares a pesos\bin\Debug\FP-2019-Dolares a pesos.exe
+E:\Visual Studio\2 Problemas\FP-2019-Dolares a pesos\FP-2019-Dolares a pesos\bin\Debug\FP-2019-Dolares a pesos.pdb
+E:\Visual Studio\2 Problemas\FP-2019-Dolares a pesos\FP-2019-Dolares a pesos\bin\Debug\FP-2019-Dolares a pesos.xml
+E:\Visual Studio\2 Problemas\FP-2019-Dolares a pesos\FP-2019-Dolares a pesos\obj\Debug\FP_2019_Dolares_a_pesos.Resources.resources
+E:\Visual Studio\2 Problemas\FP-2019-Dolares a pesos\FP-2019-Dolares a pesos\obj\Debug\FP-2019-Dolares a pesos.vbproj.GenerateResource.Cache
+E:\Visual Studio\2 Problemas\FP-2019-Dolares a pesos\FP-2019-Dolares a pesos\obj\Debug\FP-2019-Dolares a pesos.exe
+E:\Visual Studio\2 Problemas\FP-2019-Dolares a pesos\FP-2019-Dolares a pesos\obj\Debug\FP-2019-Dolares a pesos.xml
+E:\Visual Studio\2 Problemas\FP-2019-Dolares a pesos\FP-2019-Dolares a pesos\obj\Debug\FP-2019-Dolares a pesos.pdb
