@@ -1,0 +1,10 @@
+C:\Users\Jacquilin\Documents\Tec parte 2\Porgramación OO\Proyectos POO\Calificaciones2intento\Calificaciones2intento\obj\Debug\Calificaciones2intento.csprojAssemblyReference.cache
+C:\Users\Jacquilin\Documents\Tec parte 2\Porgramación OO\Proyectos POO\Calificaciones2intento\Calificaciones2intento\obj\Debug\Calificaciones2intento.Form1.resources
+C:\Users\Jacquilin\Documents\Tec parte 2\Porgramación OO\Proyectos POO\Calificaciones2intento\Calificaciones2intento\obj\Debug\Calificaciones2intento.Properties.Resources.resources
+C:\Users\Jacquilin\Documents\Tec parte 2\Porgramación OO\Proyectos POO\Calificaciones2intento\Calificaciones2intento\obj\Debug\Calificaciones2intento.csproj.GenerateResource.cache
+C:\Users\Jacquilin\Documents\Tec parte 2\Porgramación OO\Proyectos POO\Calificaciones2intento\Calificaciones2intento\obj\Debug\Calificaciones2intento.csproj.CoreCompileInputs.cache
+C:\Users\Jacquilin\Documents\Tec parte 2\Porgramación OO\Proyectos POO\Calificaciones2intento\Calificaciones2intento\bin\Debug\Calificaciones2intento.exe.config
+C:\Users\Jacquilin\Documents\Tec parte 2\Porgramación OO\Proyectos POO\Calificaciones2intento\Calificaciones2intento\bin\Debug\Calificaciones2intento.exe
+C:\Users\Jacquilin\Documents\Tec parte 2\Porgramación OO\Proyectos POO\Calificaciones2intento\Calificaciones2intento\bin\Debug\Calificaciones2intento.pdb
+C:\Users\Jacquilin\Documents\Tec parte 2\Porgramación OO\Proyectos POO\Calificaciones2intento\Calificaciones2intento\obj\Debug\Calificaciones2intento.exe
+C:\Users\Jacquilin\Documents\Tec parte 2\Porgramación OO\Proyectos POO\Calificaciones2intento\Calificaciones2intento\obj\Debug\Calificaciones2intento.pdb
