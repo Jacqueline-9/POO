@@ -1,0 +1,10 @@
+C:\Users\Jacquilin\source\repos\Examen2y3\ComisionFederalElectricidad\bin\Debug\ComisionFederalElectricidad.exe.config
+C:\Users\Jacquilin\source\repos\Examen2y3\ComisionFederalElectricidad\bin\Debug\ComisionFederalElectricidad.exe
+C:\Users\Jacquilin\source\repos\Examen2y3\ComisionFederalElectricidad\bin\Debug\ComisionFederalElectricidad.pdb
+C:\Users\Jacquilin\source\repos\Examen2y3\ComisionFederalElectricidad\obj\Debug\ComisionFederalElectricidad.csprojAssemblyReference.cache
+C:\Users\Jacquilin\source\repos\Examen2y3\ComisionFederalElectricidad\obj\Debug\ComisionFederalElectricidad.Form1.resources
+C:\Users\Jacquilin\source\repos\Examen2y3\ComisionFederalElectricidad\obj\Debug\ComisionFederalElectricidad.Properties.Resources.resources
+C:\Users\Jacquilin\source\repos\Examen2y3\ComisionFederalElectricidad\obj\Debug\ComisionFederalElectricidad.csproj.GenerateResource.cache
+C:\Users\Jacquilin\source\repos\Examen2y3\ComisionFederalElectricidad\obj\Debug\ComisionFederalElectricidad.csproj.CoreCompileInputs.cache
+C:\Users\Jacquilin\source\repos\Examen2y3\ComisionFederalElectricidad\obj\Debug\ComisionFederalElectricidad.exe
+C:\Users\Jacquilin\source\repos\Examen2y3\ComisionFederalElectricidad\obj\Debug\ComisionFederalElectricidad.pdb
