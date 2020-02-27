@@ -1,0 +1,10 @@
+C:\Users\Jacquilin\Documents\Tec parte 2\AdmonGrencial\Unidad2\DiasDeVacaciones\bin\Debug\DiasDeVacaciones.exe.config
+C:\Users\Jacquilin\Documents\Tec parte 2\AdmonGrencial\Unidad2\DiasDeVacaciones\bin\Debug\DiasDeVacaciones.exe
+C:\Users\Jacquilin\Documents\Tec parte 2\AdmonGrencial\Unidad2\DiasDeVacaciones\bin\Debug\DiasDeVacaciones.pdb
+C:\Users\Jacquilin\Documents\Tec parte 2\AdmonGrencial\Unidad2\DiasDeVacaciones\obj\Debug\DiasDeVacaciones.csprojAssemblyReference.cache
+C:\Users\Jacquilin\Documents\Tec parte 2\AdmonGrencial\Unidad2\DiasDeVacaciones\obj\Debug\DiasDeVacaciones.Form1.resources
+C:\Users\Jacquilin\Documents\Tec parte 2\AdmonGrencial\Unidad2\DiasDeVacaciones\obj\Debug\DiasDeVacaciones.Properties.Resources.resources
+C:\Users\Jacquilin\Documents\Tec parte 2\AdmonGrencial\Unidad2\DiasDeVacaciones\obj\Debug\DiasDeVacaciones.csproj.GenerateResource.cache
+C:\Users\Jacquilin\Documents\Tec parte 2\AdmonGrencial\Unidad2\DiasDeVacaciones\obj\Debug\DiasDeVacaciones.csproj.CoreCompileInputs.cache
+C:\Users\Jacquilin\Documents\Tec parte 2\AdmonGrencial\Unidad2\DiasDeVacaciones\obj\Debug\DiasDeVacaciones.exe
+C:\Users\Jacquilin\Documents\Tec parte 2\AdmonGrencial\Unidad2\DiasDeVacaciones\obj\Debug\DiasDeVacaciones.pdb

@@ -1,0 +1,10 @@
+C:\Users\Jacquilin\Documents\Tec parte 2\AdmonGrencial\Unidad2\ConsumoElectricidad\bin\Debug\ConsumoElectricidad.exe.config
+C:\Users\Jacquilin\Documents\Tec parte 2\AdmonGrencial\Unidad2\ConsumoElectricidad\bin\Debug\ConsumoElectricidad.exe
+C:\Users\Jacquilin\Documents\Tec parte 2\AdmonGrencial\Unidad2\ConsumoElectricidad\bin\Debug\ConsumoElectricidad.pdb
+C:\Users\Jacquilin\Documents\Tec parte 2\AdmonGrencial\Unidad2\ConsumoElectricidad\obj\Debug\ConsumoElectricidad.csprojAssemblyReference.cache
+C:\Users\Jacquilin\Documents\Tec parte 2\AdmonGrencial\Unidad2\ConsumoElectricidad\obj\Debug\ConsumoElectricidad.Form1.resources
+C:\Users\Jacquilin\Documents\Tec parte 2\AdmonGrencial\Unidad2\ConsumoElectricidad\obj\Debug\ConsumoElectricidad.Properties.Resources.resources
+C:\Users\Jacquilin\Documents\Tec parte 2\AdmonGrencial\Unidad2\ConsumoElectricidad\obj\Debug\ConsumoElectricidad.csproj.GenerateResource.cache
+C:\Users\Jacquilin\Documents\Tec parte 2\AdmonGrencial\Unidad2\ConsumoElectricidad\obj\Debug\ConsumoElectricidad.csproj.CoreCompileInputs.cache
+C:\Users\Jacquilin\Documents\Tec parte 2\AdmonGrencial\Unidad2\ConsumoElectricidad\obj\Debug\ConsumoElectricidad.exe
+C:\Users\Jacquilin\Documents\Tec parte 2\AdmonGrencial\Unidad2\ConsumoElectricidad\obj\Debug\ConsumoElectricidad.pdb

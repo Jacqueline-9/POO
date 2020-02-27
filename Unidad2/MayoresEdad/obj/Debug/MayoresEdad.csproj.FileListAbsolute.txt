@@ -1,0 +1,10 @@
+C:\Users\Jacquilin\Documents\Tec parte 2\AdmonGrencial\Unidad2\MayoresEdad\bin\Debug\MayoresEdad.exe.config
+C:\Users\Jacquilin\Documents\Tec parte 2\AdmonGrencial\Unidad2\MayoresEdad\bin\Debug\MayoresEdad.exe
+C:\Users\Jacquilin\Documents\Tec parte 2\AdmonGrencial\Unidad2\MayoresEdad\bin\Debug\MayoresEdad.pdb
+C:\Users\Jacquilin\Documents\Tec parte 2\AdmonGrencial\Unidad2\MayoresEdad\obj\Debug\MayoresEdad.csprojAssemblyReference.cache
+C:\Users\Jacquilin\Documents\Tec parte 2\AdmonGrencial\Unidad2\MayoresEdad\obj\Debug\MayoresEdad.Form1.resources
+C:\Users\Jacquilin\Documents\Tec parte 2\AdmonGrencial\Unidad2\MayoresEdad\obj\Debug\MayoresEdad.Properties.Resources.resources
+C:\Users\Jacquilin\Documents\Tec parte 2\AdmonGrencial\Unidad2\MayoresEdad\obj\Debug\MayoresEdad.csproj.GenerateResource.cache
+C:\Users\Jacquilin\Documents\Tec parte 2\AdmonGrencial\Unidad2\MayoresEdad\obj\Debug\MayoresEdad.csproj.CoreCompileInputs.cache
+C:\Users\Jacquilin\Documents\Tec parte 2\AdmonGrencial\Unidad2\MayoresEdad\obj\Debug\MayoresEdad.exe
+C:\Users\Jacquilin\Documents\Tec parte 2\AdmonGrencial\Unidad2\MayoresEdad\obj\Debug\MayoresEdad.pdb

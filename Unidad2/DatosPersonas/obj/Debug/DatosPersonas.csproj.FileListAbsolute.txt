@@ -1,0 +1,11 @@
+C:\Users\Jacquilin\Documents\Tec parte 2\AdmonGrencial\Unidad2\DatosPersonas\obj\Debug\DatosPersonas.csprojAssemblyReference.cache
+C:\Users\Jacquilin\Documents\Tec parte 2\AdmonGrencial\Unidad2\DatosPersonas\obj\Debug\DatosPersonas.Form1.resources
+C:\Users\Jacquilin\Documents\Tec parte 2\AdmonGrencial\Unidad2\DatosPersonas\obj\Debug\DatosPersonas.frmInforme.resources
+C:\Users\Jacquilin\Documents\Tec parte 2\AdmonGrencial\Unidad2\DatosPersonas\obj\Debug\DatosPersonas.Properties.Resources.resources
+C:\Users\Jacquilin\Documents\Tec parte 2\AdmonGrencial\Unidad2\DatosPersonas\obj\Debug\DatosPersonas.csproj.GenerateResource.cache
+C:\Users\Jacquilin\Documents\Tec parte 2\AdmonGrencial\Unidad2\DatosPersonas\obj\Debug\DatosPersonas.csproj.CoreCompileInputs.cache
+C:\Users\Jacquilin\Documents\Tec parte 2\AdmonGrencial\Unidad2\DatosPersonas\bin\Debug\DatosPersonas.exe.config
+C:\Users\Jacquilin\Documents\Tec parte 2\AdmonGrencial\Unidad2\DatosPersonas\bin\Debug\DatosPersonas.exe
+C:\Users\Jacquilin\Documents\Tec parte 2\AdmonGrencial\Unidad2\DatosPersonas\bin\Debug\DatosPersonas.pdb
+C:\Users\Jacquilin\Documents\Tec parte 2\AdmonGrencial\Unidad2\DatosPersonas\obj\Debug\DatosPersonas.exe
+C:\Users\Jacquilin\Documents\Tec parte 2\AdmonGrencial\Unidad2\DatosPersonas\obj\Debug\DatosPersonas.pdb

@@ -1,0 +1,10 @@
+C:\Users\Jacquilin\Documents\Tec parte 2\AdmonGrencial\Unidad2\UnidadGradosCF\bin\Debug\UnidadGradosCF.exe.config
+C:\Users\Jacquilin\Documents\Tec parte 2\AdmonGrencial\Unidad2\UnidadGradosCF\bin\Debug\UnidadGradosCF.exe
+C:\Users\Jacquilin\Documents\Tec parte 2\AdmonGrencial\Unidad2\UnidadGradosCF\bin\Debug\UnidadGradosCF.pdb
+C:\Users\Jacquilin\Documents\Tec parte 2\AdmonGrencial\Unidad2\UnidadGradosCF\obj\Debug\UnidadGradosCF.csprojAssemblyReference.cache
+C:\Users\Jacquilin\Documents\Tec parte 2\AdmonGrencial\Unidad2\UnidadGradosCF\obj\Debug\UnidadGradosCF.Form1.resources
+C:\Users\Jacquilin\Documents\Tec parte 2\AdmonGrencial\Unidad2\UnidadGradosCF\obj\Debug\UnidadGradosCF.Properties.Resources.resources
+C:\Users\Jacquilin\Documents\Tec parte 2\AdmonGrencial\Unidad2\UnidadGradosCF\obj\Debug\UnidadGradosCF.csproj.GenerateResource.cache
+C:\Users\Jacquilin\Documents\Tec parte 2\AdmonGrencial\Unidad2\UnidadGradosCF\obj\Debug\UnidadGradosCF.csproj.CoreCompileInputs.cache
+C:\Users\Jacquilin\Documents\Tec parte 2\AdmonGrencial\Unidad2\UnidadGradosCF\obj\Debug\UnidadGradosCF.exe
+C:\Users\Jacquilin\Documents\Tec parte 2\AdmonGrencial\Unidad2\UnidadGradosCF\obj\Debug\UnidadGradosCF.pdb

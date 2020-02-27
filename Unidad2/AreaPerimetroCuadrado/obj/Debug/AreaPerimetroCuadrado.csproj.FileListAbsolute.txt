@@ -1,0 +1,10 @@
+C:\Users\Jacquilin\Documents\Tec parte 2\AdmonGrencial\Unidad2\AreaPerimetroCuadrado\bin\Debug\AreaPerimetroCuadrado.exe.config
+C:\Users\Jacquilin\Documents\Tec parte 2\AdmonGrencial\Unidad2\AreaPerimetroCuadrado\bin\Debug\AreaPerimetroCuadrado.exe
+C:\Users\Jacquilin\Documents\Tec parte 2\AdmonGrencial\Unidad2\AreaPerimetroCuadrado\bin\Debug\AreaPerimetroCuadrado.pdb
+C:\Users\Jacquilin\Documents\Tec parte 2\AdmonGrencial\Unidad2\AreaPerimetroCuadrado\obj\Debug\AreaPerimetroCuadrado.csprojAssemblyReference.cache
+C:\Users\Jacquilin\Documents\Tec parte 2\AdmonGrencial\Unidad2\AreaPerimetroCuadrado\obj\Debug\AreaPerimetroCuadrado.Form1.resources
+C:\Users\Jacquilin\Documents\Tec parte 2\AdmonGrencial\Unidad2\AreaPerimetroCuadrado\obj\Debug\AreaPerimetroCuadrado.Properties.Resources.resources
+C:\Users\Jacquilin\Documents\Tec parte 2\AdmonGrencial\Unidad2\AreaPerimetroCuadrado\obj\Debug\AreaPerimetroCuadrado.csproj.GenerateResource.cache
+C:\Users\Jacquilin\Documents\Tec parte 2\AdmonGrencial\Unidad2\AreaPerimetroCuadrado\obj\Debug\AreaPerimetroCuadrado.csproj.CoreCompileInputs.cache
+C:\Users\Jacquilin\Documents\Tec parte 2\AdmonGrencial\Unidad2\AreaPerimetroCuadrado\obj\Debug\AreaPerimetroCuadrado.exe
+C:\Users\Jacquilin\Documents\Tec parte 2\AdmonGrencial\Unidad2\AreaPerimetroCuadrado\obj\Debug\AreaPerimetroCuadrado.pdb

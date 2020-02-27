@@ -1,0 +1,10 @@
+C:\Users\Jacquilin\Documents\Tec parte 2\AdmonGrencial\Unidad2\CasetaAutopista\bin\Debug\CasetaAutopista.exe.config
+C:\Users\Jacquilin\Documents\Tec parte 2\AdmonGrencial\Unidad2\CasetaAutopista\bin\Debug\CasetaAutopista.exe
+C:\Users\Jacquilin\Documents\Tec parte 2\AdmonGrencial\Unidad2\CasetaAutopista\bin\Debug\CasetaAutopista.pdb
+C:\Users\Jacquilin\Documents\Tec parte 2\AdmonGrencial\Unidad2\CasetaAutopista\obj\Debug\CasetaAutopista.csprojAssemblyReference.cache
+C:\Users\Jacquilin\Documents\Tec parte 2\AdmonGrencial\Unidad2\CasetaAutopista\obj\Debug\CasetaAutopista.Form1.resources
+C:\Users\Jacquilin\Documents\Tec parte 2\AdmonGrencial\Unidad2\CasetaAutopista\obj\Debug\CasetaAutopista.Properties.Resources.resources
+C:\Users\Jacquilin\Documents\Tec parte 2\AdmonGrencial\Unidad2\CasetaAutopista\obj\Debug\CasetaAutopista.csproj.GenerateResource.cache
+C:\Users\Jacquilin\Documents\Tec parte 2\AdmonGrencial\Unidad2\CasetaAutopista\obj\Debug\CasetaAutopista.csproj.CoreCompileInputs.cache
+C:\Users\Jacquilin\Documents\Tec parte 2\AdmonGrencial\Unidad2\CasetaAutopista\obj\Debug\CasetaAutopista.exe
+C:\Users\Jacquilin\Documents\Tec parte 2\AdmonGrencial\Unidad2\CasetaAutopista\obj\Debug\CasetaAutopista.pdb
