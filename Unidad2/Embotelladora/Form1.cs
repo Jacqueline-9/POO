@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Embotelladora
 {
-    public partial class frmEmbotelladora : Form
+    public partial class Form1 : Form
     {
-        public frmEmbotelladora()
+        public Form1()
         {
             InitializeComponent();
         }
@@ -23,7 +23,11 @@ namespace Embotelladora
 
             objBotella.nivelLlenado = Convert.ToInt32(txtNivelLlenado.Text);
             MessageBox.Show(objBotella.verificarLlenado());
+        }
 
+        private void btnSalir_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
         }
     }
 }

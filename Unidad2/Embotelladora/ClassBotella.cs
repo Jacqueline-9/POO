@@ -22,8 +22,8 @@ namespace Embotelladora
             else if (nivelLlenado < 250)
             {
                 mililitrosVerificados = 250 - nivelLlenado;
-                mensaje = "Le faltan: "+ mililitrosVerificados + " mililitros";
-            }   
+                mensaje = "Le faltan: " + mililitrosVerificados + " mililitros";
+            }
             else
             {
                 mililitrosVerificados = nivelLlenado - 250;

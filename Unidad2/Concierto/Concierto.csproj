@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{5516B694-25BD-4D75-9002-90BCD546D18B}</ProjectGuid>
+    <ProjectGuid>{86A3B267-2DB0-4C0C-BD1F-A552133D9ED1}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Embotelladora</RootNamespace>
-    <AssemblyName>Embotelladora</AssemblyName>
+    <RootNamespace>Concierto</RootNamespace>
+    <AssemblyName>Concierto</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -46,7 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ClassBotella.cs" />
+    <Compile Include="ClassAsistente.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
