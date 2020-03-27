@@ -30,12 +30,40 @@ namespace InterfacesEjercicio1
 
         private void btnCalcular_Click(object sender, EventArgs e)
         {
+            if (cmbBebida.Text == "")
+            {
+                errorProvider1.SetError(cmbBebida, "Introduzca el tipo de bebida");
+                cmbBebida.Focus();
+                return;
+            }
+            errorProvider1.SetError(cmbBebida, "");
+
+            if (txtMarca.Text == "")
+            {
+                errorProvider1.SetError(txtMarca, "Introduzca la marca de la bebida");
+                txtMarca.Focus();
+                return;
+            }
+            errorProvider1.SetError(txtMarca, "");
+
+            if (txtCantidad.Text == "")
+            {
+                errorProvider1.SetError(txtCantidad, "Introduzca la cantidad que pesa la bebida");
+                txtCantidad.Focus();
+                return;
+            }
+            errorProvider1.SetError(txtCantidad, "");
+
             if (cmbBebida.Text =="Cerveza")
             {
                 objCerveza.Alcohol = cmbBebida.Text;
                 objCerveza.Marca = txtMarca.Text;
                 objCerveza.Cantidad = int.Parse(txtCantidad.Text);
                 objCerveza.Llenar();
+                objCerveza.sumar();
+                cmbBebida.Text = "";
+                txtCantidad.Text = "";
+                txtMarca.Text = "";
 
                 MessageBox.Show(objCerveza.Mostrar(), "Llenado", MessageBoxButtons.OK, MessageBoxIcon.Information, MessageBoxDefaultButton.Button1);
             }
@@ -46,9 +74,26 @@ namespace InterfacesEjercicio1
                 objVino.Marca = txtMarca.Text;
                 objVino.Cantidad = int.Parse(txtCantidad.Text);
                 objVino.Llenar();
+                objVino.sumar();
+                cmbBebida.Text = "";
+                txtCantidad.Text = "";
+                txtMarca.Text = "";
 
                 MessageBox.Show(objVino.Mostrar(), "Llenado", MessageBoxButtons.OK, MessageBoxIcon.Information, MessageBoxDefaultButton.Button1);
             }
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Informe objInforme = new Informe();
+            objInforme.txtCervezas.Text = objCerveza.SumaC.ToString();
+            objInforme.txtVinos.Text = objVino.SumaV.ToString();
+            objInforme.Show();
         }
     }
 }

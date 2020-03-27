@@ -13,7 +13,10 @@ namespace InterfacesEjercicio1
         int Cantidad { set; get; }
         int SobranteFaltante { set; get; }
         int NuevaCantidad { set; get; }
+        int SumaV { set; get; }
+        int SumaC { set; get; }
 
+        void sumar();
         void Llenar();
         string Mostrar();
     }

@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmpleadosRestaurante", "Emp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfacesEjercicio1", "InterfacesEjercicio1\InterfacesEjercicio1.csproj", "{2442D81A-883C-4B85-96D7-C58DD04A0B2E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnakeVersusJacque", "SnakeVersusJacque\SnakeVersusJacque.csproj", "{6B954B2A-417C-4BA3-881A-7F2F9ADD2F48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JuegodePreguntas", "JuegodePreguntas\JuegodePreguntas.csproj", "{CA7ADD96-27F0-43A5-BA15-D996264DEBED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{2442D81A-883C-4B85-96D7-C58DD04A0B2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2442D81A-883C-4B85-96D7-C58DD04A0B2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2442D81A-883C-4B85-96D7-C58DD04A0B2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B954B2A-417C-4BA3-881A-7F2F9ADD2F48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B954B2A-417C-4BA3-881A-7F2F9ADD2F48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B954B2A-417C-4BA3-881A-7F2F9ADD2F48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B954B2A-417C-4BA3-881A-7F2F9ADD2F48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA7ADD96-27F0-43A5-BA15-D996264DEBED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA7ADD96-27F0-43A5-BA15-D996264DEBED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA7ADD96-27F0-43A5-BA15-D996264DEBED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA7ADD96-27F0-43A5-BA15-D996264DEBED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

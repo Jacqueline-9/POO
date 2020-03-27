@@ -8,17 +8,16 @@ namespace InterfacesEjercicio1
 {
      class Vino : Bebida
     {
-        private string alcohol;
-        private string marca;
-        private int cantidad;
-        private int sobranteFaltante;
-        private int nuevaCantidad;
+        private string alcohol, marca;
+        private int cantidad, sobranteFaltante, nuevaCantidad, sumaV, sumaC;
 
         public string Alcohol { get; set; }
         public string Marca { get; set; }
         public int Cantidad { get; set; }
         public int SobranteFaltante { set; get; }
         public int NuevaCantidad { get; set; }
+        public int SumaV { get; set; }
+        public int SumaC { get; set; }
 
         public Vino()
         {
@@ -27,6 +26,16 @@ namespace InterfacesEjercicio1
             cantidad = 0;
             SobranteFaltante = 0;
             nuevaCantidad = 0;
+            SumaC = 0;
+            SumaV = 0;
+        }
+
+        public void sumar()
+        {
+            if (Alcohol == "Vino")
+            {
+                SumaV = SumaV + 1;
+            }
         }
 
         public void Llenar()
