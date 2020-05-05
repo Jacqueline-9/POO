@@ -1,0 +1,7 @@
+C:\Users\Jacquilin\Documents\Tec parte 2\PorgramaciónOO\Proyectos POO\Unidad5\Bidimensional2\bin\Debug\Bidimensional2.exe.config
+C:\Users\Jacquilin\Documents\Tec parte 2\PorgramaciónOO\Proyectos POO\Unidad5\Bidimensional2\bin\Debug\Bidimensional2.exe
+C:\Users\Jacquilin\Documents\Tec parte 2\PorgramaciónOO\Proyectos POO\Unidad5\Bidimensional2\bin\Debug\Bidimensional2.pdb
+C:\Users\Jacquilin\Documents\Tec parte 2\PorgramaciónOO\Proyectos POO\Unidad5\Bidimensional2\obj\Debug\Bidimensional2.csprojAssemblyReference.cache
+C:\Users\Jacquilin\Documents\Tec parte 2\PorgramaciónOO\Proyectos POO\Unidad5\Bidimensional2\obj\Debug\Bidimensional2.csproj.CoreCompileInputs.cache
+C:\Users\Jacquilin\Documents\Tec parte 2\PorgramaciónOO\Proyectos POO\Unidad5\Bidimensional2\obj\Debug\Bidimensional2.exe
+C:\Users\Jacquilin\Documents\Tec parte 2\PorgramaciónOO\Proyectos POO\Unidad5\Bidimensional2\obj\Debug\Bidimensional2.pdb
