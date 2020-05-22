@@ -1,0 +1,7 @@
+C:\Users\Jacquilin\Documents\Tec parte 2\Jacqueline\PorgramaciónOO\Proyectos POO\Unidad6\ClaseProg101Escritura\bin\Release\ClaseProg101Escritura.exe.config
+C:\Users\Jacquilin\Documents\Tec parte 2\Jacqueline\PorgramaciónOO\Proyectos POO\Unidad6\ClaseProg101Escritura\bin\Release\ClaseProg101Escritura.exe
+C:\Users\Jacquilin\Documents\Tec parte 2\Jacqueline\PorgramaciónOO\Proyectos POO\Unidad6\ClaseProg101Escritura\bin\Release\ClaseProg101Escritura.pdb
+C:\Users\Jacquilin\Documents\Tec parte 2\Jacqueline\PorgramaciónOO\Proyectos POO\Unidad6\ClaseProg101Escritura\obj\Release\ClaseProg101Escritura.csprojAssemblyReference.cache
+C:\Users\Jacquilin\Documents\Tec parte 2\Jacqueline\PorgramaciónOO\Proyectos POO\Unidad6\ClaseProg101Escritura\obj\Release\ClaseProg101Escritura.csproj.CoreCompileInputs.cache
+C:\Users\Jacquilin\Documents\Tec parte 2\Jacqueline\PorgramaciónOO\Proyectos POO\Unidad6\ClaseProg101Escritura\obj\Release\ClaseProg101Escritura.exe
+C:\Users\Jacquilin\Documents\Tec parte 2\Jacqueline\PorgramaciónOO\Proyectos POO\Unidad6\ClaseProg101Escritura\obj\Release\ClaseProg101Escritura.pdb
