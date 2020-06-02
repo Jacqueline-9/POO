@@ -1,0 +1,10 @@
+C:\Users\Jacquilin\Documents\Tec parte 2\Jacqueline\PrograOO\Proyectos POO\Unidad 5\Unidad5\Torneo\bin\Debug\Torneo.exe.config
+C:\Users\Jacquilin\Documents\Tec parte 2\Jacqueline\PrograOO\Proyectos POO\Unidad 5\Unidad5\Torneo\bin\Debug\Torneo.exe
+C:\Users\Jacquilin\Documents\Tec parte 2\Jacqueline\PrograOO\Proyectos POO\Unidad 5\Unidad5\Torneo\bin\Debug\Torneo.pdb
+C:\Users\Jacquilin\Documents\Tec parte 2\Jacqueline\PrograOO\Proyectos POO\Unidad 5\Unidad5\Torneo\obj\Debug\Torneo.csprojAssemblyReference.cache
+C:\Users\Jacquilin\Documents\Tec parte 2\Jacqueline\PrograOO\Proyectos POO\Unidad 5\Unidad5\Torneo\obj\Debug\Torneo.Form1.resources
+C:\Users\Jacquilin\Documents\Tec parte 2\Jacqueline\PrograOO\Proyectos POO\Unidad 5\Unidad5\Torneo\obj\Debug\Torneo.Properties.Resources.resources
+C:\Users\Jacquilin\Documents\Tec parte 2\Jacqueline\PrograOO\Proyectos POO\Unidad 5\Unidad5\Torneo\obj\Debug\Torneo.csproj.GenerateResource.cache
+C:\Users\Jacquilin\Documents\Tec parte 2\Jacqueline\PrograOO\Proyectos POO\Unidad 5\Unidad5\Torneo\obj\Debug\Torneo.csproj.CoreCompileInputs.cache
+C:\Users\Jacquilin\Documents\Tec parte 2\Jacqueline\PrograOO\Proyectos POO\Unidad 5\Unidad5\Torneo\obj\Debug\Torneo.exe
+C:\Users\Jacquilin\Documents\Tec parte 2\Jacqueline\PrograOO\Proyectos POO\Unidad 5\Unidad5\Torneo\obj\Debug\Torneo.pdb

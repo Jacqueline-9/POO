@@ -1,0 +1,10 @@
+C:\Users\Jacquilin\Documents\Tec parte 2\Jacqueline\PrograOO\Proyectos POO\Unidad 5\Unidad5\Perritos\bin\Debug\Perritos.exe.config
+C:\Users\Jacquilin\Documents\Tec parte 2\Jacqueline\PrograOO\Proyectos POO\Unidad 5\Unidad5\Perritos\bin\Debug\Perritos.exe
+C:\Users\Jacquilin\Documents\Tec parte 2\Jacqueline\PrograOO\Proyectos POO\Unidad 5\Unidad5\Perritos\bin\Debug\Perritos.pdb
+C:\Users\Jacquilin\Documents\Tec parte 2\Jacqueline\PrograOO\Proyectos POO\Unidad 5\Unidad5\Perritos\obj\Debug\Perritos.csprojAssemblyReference.cache
+C:\Users\Jacquilin\Documents\Tec parte 2\Jacqueline\PrograOO\Proyectos POO\Unidad 5\Unidad5\Perritos\obj\Debug\Perritos.Form1.resources
+C:\Users\Jacquilin\Documents\Tec parte 2\Jacqueline\PrograOO\Proyectos POO\Unidad 5\Unidad5\Perritos\obj\Debug\Perritos.Properties.Resources.resources
+C:\Users\Jacquilin\Documents\Tec parte 2\Jacqueline\PrograOO\Proyectos POO\Unidad 5\Unidad5\Perritos\obj\Debug\Perritos.csproj.GenerateResource.cache
+C:\Users\Jacquilin\Documents\Tec parte 2\Jacqueline\PrograOO\Proyectos POO\Unidad 5\Unidad5\Perritos\obj\Debug\Perritos.csproj.CoreCompileInputs.cache
+C:\Users\Jacquilin\Documents\Tec parte 2\Jacqueline\PrograOO\Proyectos POO\Unidad 5\Unidad5\Perritos\obj\Debug\Perritos.exe
+C:\Users\Jacquilin\Documents\Tec parte 2\Jacqueline\PrograOO\Proyectos POO\Unidad 5\Unidad5\Perritos\obj\Debug\Perritos.pdb
