@@ -1,0 +1,10 @@
+Alemania
+Población: 1200
+Colores de la bandera
+Color 1: Amarillo
+Color 2: Blanco
+Color 3: Azul
+Nombre: México
+Población: 3000
+Idioma: Español
+Colores de la bandera: Color 1: VerdeColor 2: BlancoColor 3: Rojo

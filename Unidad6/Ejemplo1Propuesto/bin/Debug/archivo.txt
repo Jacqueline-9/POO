@@ -1,0 +1,10 @@
+Nombres: Deisi Jacqueline
+Apellidos: Ramos Rosas
+Puesto de trabajo: Jefe
+Número de identificación: 1
+
+Nombres: Mayra
+Apellidos: Rosas Garcia
+Puesto de trabajo: Gerente
+Número de identificación: 2
+

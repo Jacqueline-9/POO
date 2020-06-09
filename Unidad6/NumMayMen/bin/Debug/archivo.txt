@@ -1,0 +1,6 @@
+Cantidad de números: 2
+Número: 1
+Número: 2
+El número menor es: 1
+El número mayor es: 2
+

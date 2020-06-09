@@ -1,0 +1,7 @@
+C:\Users\Jacquilin\Documents\Tec parte 2\Jacqueline\PrograOO\Proyectos POO\Unidad6\Bidimensional1\bin\Debug\Bidimensional1.exe.config
+C:\Users\Jacquilin\Documents\Tec parte 2\Jacqueline\PrograOO\Proyectos POO\Unidad6\Bidimensional1\bin\Debug\Bidimensional1.exe
+C:\Users\Jacquilin\Documents\Tec parte 2\Jacqueline\PrograOO\Proyectos POO\Unidad6\Bidimensional1\bin\Debug\Bidimensional1.pdb
+C:\Users\Jacquilin\Documents\Tec parte 2\Jacqueline\PrograOO\Proyectos POO\Unidad6\Bidimensional1\obj\Debug\Bidimensional1.csprojAssemblyReference.cache
+C:\Users\Jacquilin\Documents\Tec parte 2\Jacqueline\PrograOO\Proyectos POO\Unidad6\Bidimensional1\obj\Debug\Bidimensional1.csproj.CoreCompileInputs.cache
+C:\Users\Jacquilin\Documents\Tec parte 2\Jacqueline\PrograOO\Proyectos POO\Unidad6\Bidimensional1\obj\Debug\Bidimensional1.exe
+C:\Users\Jacquilin\Documents\Tec parte 2\Jacqueline\PrograOO\Proyectos POO\Unidad6\Bidimensional1\obj\Debug\Bidimensional1.pdb

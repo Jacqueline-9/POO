@@ -1,0 +1,15 @@
+IDE: 9013
+
+Nombres: Deisi Jacqueline
+Apellidos: Ramos Rosas
+Correo: Jacqueline@outlook.com
+Fecha de nacimiento: 08/06/2001 06:37:02 p. m.
+Salario: 1200
+IDE: 8093
+
+Nombres: Rita Mayra
+Apellidos: Rosas Garcia
+Correo: Rita@outlook.com
+Fecha de nacimiento: 08/06/1980 06:37:02 p. m.
+Salario: 1200
+

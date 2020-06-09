@@ -1,0 +1,10 @@
+C:\Users\Jacquilin\Documents\Tec parte 2\Jacqueline\PrograOO\Proyectos POO\Unidad6\Matriz FCD\bin\Debug\Matriz FCD.exe.config
+C:\Users\Jacquilin\Documents\Tec parte 2\Jacqueline\PrograOO\Proyectos POO\Unidad6\Matriz FCD\bin\Debug\Matriz FCD.exe
+C:\Users\Jacquilin\Documents\Tec parte 2\Jacqueline\PrograOO\Proyectos POO\Unidad6\Matriz FCD\bin\Debug\Matriz FCD.pdb
+C:\Users\Jacquilin\Documents\Tec parte 2\Jacqueline\PrograOO\Proyectos POO\Unidad6\Matriz FCD\obj\Debug\Matriz FCD.csprojAssemblyReference.cache
+C:\Users\Jacquilin\Documents\Tec parte 2\Jacqueline\PrograOO\Proyectos POO\Unidad6\Matriz FCD\obj\Debug\Matriz_FCD.Form1.resources
+C:\Users\Jacquilin\Documents\Tec parte 2\Jacqueline\PrograOO\Proyectos POO\Unidad6\Matriz FCD\obj\Debug\Matriz_FCD.Properties.Resources.resources
+C:\Users\Jacquilin\Documents\Tec parte 2\Jacqueline\PrograOO\Proyectos POO\Unidad6\Matriz FCD\obj\Debug\Matriz FCD.csproj.GenerateResource.cache
+C:\Users\Jacquilin\Documents\Tec parte 2\Jacqueline\PrograOO\Proyectos POO\Unidad6\Matriz FCD\obj\Debug\Matriz FCD.csproj.CoreCompileInputs.cache
+C:\Users\Jacquilin\Documents\Tec parte 2\Jacqueline\PrograOO\Proyectos POO\Unidad6\Matriz FCD\obj\Debug\Matriz FCD.exe
+C:\Users\Jacquilin\Documents\Tec parte 2\Jacqueline\PrograOO\Proyectos POO\Unidad6\Matriz FCD\obj\Debug\Matriz FCD.pdb

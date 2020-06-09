@@ -1,0 +1,5 @@
+Cantidad de filas: 2
+Cantidad de columnas: 2
+Los números ingresados son: 
+1,2,
+3,4,

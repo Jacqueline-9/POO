@@ -1,0 +1,9 @@
+Nombre del Torneo: Holis
+Número de equipos: 2
+Fecha de Inicio: 08/06/2020 08:06:16 p. m.
+Fecha de Terminó: 08/06/2020 08:06:16 p. m.
+Nombre del equipo: Holaaa
+Puntos obtenidos: 2Nombre del equipo: Holiwis
+Puntos obtenidos: 4El equipo ganador es: El equipo ganador es: 4
+Punto(s) obtenido(s): 0
+
