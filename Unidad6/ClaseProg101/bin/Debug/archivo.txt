@@ -1,5 +1,0 @@
-un ejemplo de streams
-Hola soy
-JacquelineHola
-Otra vez
-Y otra vez
