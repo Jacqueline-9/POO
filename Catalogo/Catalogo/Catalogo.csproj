@@ -1,0 +1,822 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1A806A66-F419-4835-8653-D1E81FFD339A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Catalogo</RootNamespace>
+    <AssemblyName>Catalogo</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bidi1Arc">
+      <HintPath>..\..\..\Documents\Tec parte 2\Jacqueline\PrograOO\Proyectos POO\Proyectos\Unidad6\Bidi1Arc\bin\Debug\Bidi1Arc.exe</HintPath>
+    </Reference>
+    <Reference Include="Bidi2Arc">
+      <HintPath>..\..\..\Documents\Tec parte 2\Jacqueline\PrograOO\Proyectos POO\Proyectos\Unidad6\Bidi2Arc\bin\Debug\Bidi2Arc.exe</HintPath>
+    </Reference>
+    <Reference Include="Bidimensional1">
+      <HintPath>..\..\..\Documents\Tec parte 2\Jacqueline\PrograOO\Proyectos POO\Proyectos\Unidad 5\Unidad5\Bidimensional1\bin\Debug\Bidimensional1.exe</HintPath>
+    </Reference>
+    <Reference Include="Bidimensional2">
+      <HintPath>..\..\..\Documents\Tec parte 2\Jacqueline\PrograOO\Proyectos POO\Proyectos\Unidad 5\Unidad5\Bidimensional2\bin\Debug\Bidimensional2.exe</HintPath>
+    </Reference>
+    <Reference Include="Ejemplo1Propuesto">
+      <HintPath>..\..\..\Documents\Tec parte 2\Jacqueline\PrograOO\Proyectos POO\Proyectos\Unidad 5\Unidad5\Ejemplo1Propuesto\bin\Debug\Ejemplo1Propuesto.exe</HintPath>
+    </Reference>
+    <Reference Include="EjemPropuestoArc">
+      <HintPath>..\..\..\Documents\Tec parte 2\Jacqueline\PrograOO\Proyectos POO\Proyectos\Unidad6\EjemPropuestoArc\bin\Debug\EjemPropuestoArc.exe</HintPath>
+    </Reference>
+    <Reference Include="FontAwesome.Sharp, Version=5.13.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\FontAwesome.Sharp.5.13.0\lib\net45\FontAwesome.Sharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="MiPrimerProyectoConsola">
+      <HintPath>..\..\..\Documents\Tec parte 2\Jacqueline\PrograOO\Proyectos POO\Proyectos\Unidad 1\MiPrimerSolución\MiPrimerProyectoConsola\bin\Debug\MiPrimerProyectoConsola.exe</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Clases\Aereo.cs" />
+    <Compile Include="Clases\AlumnosAr.cs" />
+    <Compile Include="Clases\AlumnossAr.cs" />
+    <Compile Include="Clases\ClasesJuegoP\DocentesAr.cs" />
+    <Compile Include="Clases\DatosNPaisesAr.cs" />
+    <Compile Include="Clases\DatosPaisessAr.cs" />
+    <Compile Include="Clases\DocentessAr.cs" />
+    <Compile Include="Clases\MatrizFCDAr.cs" />
+    <Compile Include="Clases\NumerosArc.cs" />
+    <Compile Include="Clases\PerritosAr.cs" />
+    <Compile Include="Clases\PersonaArrayListArc.cs" />
+    <Compile Include="Clases\TorneoAr.cs" />
+    <Compile Include="Forms\FormArrayListArc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormArrayListArc.Designer.cs">
+      <DependentUpon>FormArrayListArc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormMatrizAr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormMatrizAr.Designer.cs">
+      <DependentUpon>FormMatrizAr.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormNumMayMenAr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormNumMayMenAr.Designer.cs">
+      <DependentUpon>FormNumMayMenAr.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormPerritosAr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormPerritosAr.Designer.cs">
+      <DependentUpon>FormPerritosAr.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormTorneoAr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormTorneoAr.Designer.cs">
+      <DependentUpon>FormTorneoAr.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ImprimirAr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ImprimirAr.Designer.cs">
+      <DependentUpon>ImprimirAr.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clases\MatrizFCD.cs" />
+    <Compile Include="Clases\Numeros.cs" />
+    <Compile Include="Clases\Perritos.cs" />
+    <Compile Include="Clases\PersonaAr.cs" />
+    <Compile Include="Clases\PersonaArrayList.cs" />
+    <Compile Include="Clases\PersonassAr.cs" />
+    <Compile Include="Clases\Torneo.cs" />
+    <Compile Include="Forms\DatosDocentesAr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\DatosDocentesAr.Designer.cs">
+      <DependentUpon>DatosDocentesAr.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\AlumnoAr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AlumnoAr.Designer.cs">
+      <DependentUpon>AlumnoAr.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\DatosAlumnosAr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\DatosAlumnosAr.Designer.cs">
+      <DependentUpon>DatosAlumnosAr.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\DocenteAr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\DocenteAr.Designer.cs">
+      <DependentUpon>DocenteAr.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormBidiEjemploAr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormBidiEjemploAr.Designer.cs">
+      <DependentUpon>FormBidiEjemploAr.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormDatosAlumnoDocenteAr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormDatosAlumnoDocenteAr.Designer.cs">
+      <DependentUpon>FormDatosAlumnoDocenteAr.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormDatosAlumnosDocentesAr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormDatosAlumnosDocentesAr.Designer.cs">
+      <DependentUpon>FormDatosAlumnosDocentesAr.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormDatosNPaisesAr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormDatosNPaisesAr.Designer.cs">
+      <DependentUpon>FormDatosNPaisesAr.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormDatosPaisesMundoAr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormDatosPaisesMundoAr.Designer.cs">
+      <DependentUpon>FormDatosPaisesMundoAr.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormNumMayMen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormNumMayMen.Designer.cs">
+      <DependentUpon>FormNumMayMen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Alumno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Alumno.Designer.cs">
+      <DependentUpon>Alumno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clases\Alumnos.cs" />
+    <Compile Include="Clases\Alumnos1.cs" />
+    <Compile Include="Clases\Bebida.cs" />
+    <Compile Include="Clases\Cajero.cs" />
+    <Compile Include="Clases\Cerveza.cs" />
+    <Compile Include="Clases\Circulo.cs" />
+    <Compile Include="Forms\CirculoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\CirculoForm.Designer.cs">
+      <DependentUpon>CirculoForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clases\ClasesJuegoP\Abstract.cs" />
+    <Compile Include="Clases\ClasesJuegoP\Comida.cs" />
+    <Compile Include="Clases\ClasesJuegoP\CPreguntas.cs" />
+    <Compile Include="Clases\ClasesJuegoP\Papa.cs" />
+    <Compile Include="Clases\ClasesJuegoP\Pregunta1.cs" />
+    <Compile Include="Clases\ClasesJuegoP\Pregunta10.cs" />
+    <Compile Include="Clases\ClasesJuegoP\Pregunta11.cs" />
+    <Compile Include="Clases\ClasesJuegoP\Pregunta12.cs" />
+    <Compile Include="Clases\ClasesJuegoP\Pregunta2.cs" />
+    <Compile Include="Clases\ClasesJuegoP\Pregunta3.cs" />
+    <Compile Include="Clases\ClasesJuegoP\Pregunta4.cs" />
+    <Compile Include="Clases\ClasesJuegoP\Pregunta5.cs" />
+    <Compile Include="Clases\ClasesJuegoP\Pregunta6.cs" />
+    <Compile Include="Clases\ClasesJuegoP\Pregunta7.cs" />
+    <Compile Include="Clases\ClasesJuegoP\Pregunta8.cs" />
+    <Compile Include="Clases\ClasesJuegoP\Pregunta9.cs" />
+    <Compile Include="Clases\ClasesJuegoP\Serpiente.cs" />
+    <Compile Include="Clases\ClassAsistente.cs" />
+    <Compile Include="Clases\ClassBotella.cs" />
+    <Compile Include="Clases\ClassCalificaciones.cs" />
+    <Compile Include="Clases\ClassCuadrado.cs" />
+    <Compile Include="Clases\ClassEmpleado.cs" />
+    <Compile Include="Clases\ClassPersona.cs" />
+    <Compile Include="Clases\ClassPersona2.cs" />
+    <Compile Include="Clases\ClassRecibo.cs" />
+    <Compile Include="Clases\ClassTemperatura.cs" />
+    <Compile Include="Clases\ClassVehículo.cs" />
+    <Compile Include="Clases\Cuadrado.cs" />
+    <Compile Include="Forms\CuadradoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\CuadradoForm.Designer.cs">
+      <DependentUpon>CuadradoForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\DatosAlumnos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\DatosAlumnos.Designer.cs">
+      <DependentUpon>DatosAlumnos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clases\DatosNPaises.cs" />
+    <Compile Include="Clases\DatosPaises.cs" />
+    <Compile Include="Forms\FormDatosAlumnoDocnte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormDatosAlumnoDocnte.Designer.cs">
+      <DependentUpon>FormDatosAlumnoDocnte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\DatosDocentes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\DatosDocentes.Designer.cs">
+      <DependentUpon>DatosDocentes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clases\Division.cs" />
+    <Compile Include="Forms\Docente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Docente.Designer.cs">
+      <DependentUpon>Docente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clases\Docentes.cs" />
+    <Compile Include="Clases\Docentes1.cs" />
+    <Compile Include="Clases\Empleado.cs" />
+    <Compile Include="Clases\Figura.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormArea.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormArea.Designer.cs">
+      <DependentUpon>FormArea.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormBidimensionalEjemplo1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormBidimensionalEjemplo1.Designer.cs">
+      <DependentUpon>FormBidimensionalEjemplo1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormCajero.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormCajero.Designer.cs">
+      <DependentUpon>FormCajero.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormCalif.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormCalif.Designer.cs">
+      <DependentUpon>FormCalif.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormCaseta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormCaseta.Designer.cs">
+      <DependentUpon>FormCaseta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormConcierto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormConcierto.Designer.cs">
+      <DependentUpon>FormConcierto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormDatosAlumnosDocentes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormDatosAlumnosDocentes.Designer.cs">
+      <DependentUpon>FormDatosAlumnosDocentes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormDatosNPaises.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormDatosNPaises.Designer.cs">
+      <DependentUpon>FormDatosNPaises.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormDatosPaisesMundo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormDatosPaisesMundo.Designer.cs">
+      <DependentUpon>FormDatosPaisesMundo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormEjercicio1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormEjercicio1.Designer.cs">
+      <DependentUpon>FormEjercicio1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormEmbotelladora.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormEmbotelladora.Designer.cs">
+      <DependentUpon>FormEmbotelladora.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormFiguras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormFiguras.Designer.cs">
+      <DependentUpon>FormFiguras.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormGrados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormGrados.Designer.cs">
+      <DependentUpon>FormGrados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormMatriz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormMatriz.Designer.cs">
+      <DependentUpon>FormMatriz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormMayorEdad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormMayorEdad.Designer.cs">
+      <DependentUpon>FormMayorEdad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormMesero.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormMesero.Designer.cs">
+      <DependentUpon>FormMesero.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormMiPrimerArrayList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormMiPrimerArrayList.Designer.cs">
+      <DependentUpon>FormMiPrimerArrayList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormMiPrimerProyecto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormMiPrimerProyecto.Designer.cs">
+      <DependentUpon>FormMiPrimerProyecto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormOperacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormOperacion.Designer.cs">
+      <DependentUpon>FormOperacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormPerritos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormPerritos.Designer.cs">
+      <DependentUpon>FormPerritos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormPersonas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormPersonas.Designer.cs">
+      <DependentUpon>FormPersonas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormPreguntas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormPreguntas.Designer.cs">
+      <DependentUpon>FormPreguntas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormRecibo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormRecibo.Designer.cs">
+      <DependentUpon>FormRecibo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormRepartidor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormRepartidor.Designer.cs">
+      <DependentUpon>FormRepartidor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormRestaurante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormRestaurante.Designer.cs">
+      <DependentUpon>FormRestaurante.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormSnake.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormSnake.Designer.cs">
+      <DependentUpon>FormSnake.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormTorneo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormTorneo.Designer.cs">
+      <DependentUpon>FormTorneo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormVacaciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormVacaciones.Designer.cs">
+      <DependentUpon>FormVacaciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormVehiculos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormVehiculos.Designer.cs">
+      <DependentUpon>FormVehiculos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormWFBidi1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormWFBidi1.Designer.cs">
+      <DependentUpon>FormWFBidi1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormWFBidi2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormWFBidi2.Designer.cs">
+      <DependentUpon>FormWFBidi2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmInforme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmInforme.Designer.cs">
+      <DependentUpon>frmInforme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Imprimir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Imprimir.Designer.cs">
+      <DependentUpon>Imprimir.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Informe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Informe.Designer.cs">
+      <DependentUpon>Informe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\OperacionesWFBidi2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\OperacionesWFBidi2.Designer.cs">
+      <DependentUpon>OperacionesWFBidi2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormWFBidi1Arc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormWFBidi1Arc.Designer.cs">
+      <DependentUpon>FormWFBidi1Arc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InterfacesJuegoP\Interface.cs" />
+    <Compile Include="InterfacesJuegoP\IPreguntas.cs" />
+    <Compile Include="Clases\Mesero.cs" />
+    <Compile Include="Clases\Multiplicacion.cs" />
+    <Compile Include="Clases\Operacion.cs" />
+    <Compile Include="Clases\Persona.cs" />
+    <Compile Include="Clases\Personas.cs" />
+    <Compile Include="Forms\Preguntas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Preguntas.Designer.cs">
+      <DependentUpon>Preguntas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Forms\Reglamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Reglamento.Designer.cs">
+      <DependentUpon>Reglamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Reglamentocs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Reglamentocs.Designer.cs">
+      <DependentUpon>Reglamentocs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clases\Repartidor.cs" />
+    <Compile Include="Clases\Resta.cs" />
+    <Compile Include="Forms\Snake.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Snake.Designer.cs">
+      <DependentUpon>Snake.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clases\Suma.cs" />
+    <Compile Include="Clases\Triangulo.cs" />
+    <Compile Include="Forms\TrianguloForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\TrianguloForm.Designer.cs">
+      <DependentUpon>TrianguloForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Unidad1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Unidad1.Designer.cs">
+      <DependentUpon>Unidad1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Unidad2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Unidad2.Designer.cs">
+      <DependentUpon>Unidad2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Unidad4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Unidad4.Designer.cs">
+      <DependentUpon>Unidad4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Unidad5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Unidad5.Designer.cs">
+      <DependentUpon>Unidad5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Unidad6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Unidad6.Designer.cs">
+      <DependentUpon>Unidad6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clases\Vehiculos.cs" />
+    <Compile Include="Clases\Vino.cs" />
+    <EmbeddedResource Include="Forms\FormArrayListArc.resx">
+      <DependentUpon>FormArrayListArc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormMatrizAr.resx">
+      <DependentUpon>FormMatrizAr.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormNumMayMenAr.resx">
+      <DependentUpon>FormNumMayMenAr.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormPerritosAr.resx">
+      <DependentUpon>FormPerritosAr.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormTorneoAr.resx">
+      <DependentUpon>FormTorneoAr.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ImprimirAr.resx">
+      <DependentUpon>ImprimirAr.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\DatosDocentesAr.resx">
+      <DependentUpon>DatosDocentesAr.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\AlumnoAr.resx">
+      <DependentUpon>AlumnoAr.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\DatosAlumnosAr.resx">
+      <DependentUpon>DatosAlumnosAr.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\DocenteAr.resx">
+      <DependentUpon>DocenteAr.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormBidiEjemploAr.resx">
+      <DependentUpon>FormBidiEjemploAr.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormDatosAlumnoDocenteAr.resx">
+      <DependentUpon>FormDatosAlumnoDocenteAr.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormDatosAlumnosDocentesAr.resx">
+      <DependentUpon>FormDatosAlumnosDocentesAr.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormDatosNPaisesAr.resx">
+      <DependentUpon>FormDatosNPaisesAr.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormDatosPaisesMundoAr.resx">
+      <DependentUpon>FormDatosPaisesMundoAr.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormNumMayMen.resx">
+      <DependentUpon>FormNumMayMen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Alumno.resx">
+      <DependentUpon>Alumno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\CirculoForm.resx">
+      <DependentUpon>CirculoForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\CuadradoForm.resx">
+      <DependentUpon>CuadradoForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\DatosAlumnos.resx">
+      <DependentUpon>DatosAlumnos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormDatosAlumnoDocnte.resx">
+      <DependentUpon>FormDatosAlumnoDocnte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\DatosDocentes.resx">
+      <DependentUpon>DatosDocentes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Docente.resx">
+      <DependentUpon>Docente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormArea.resx">
+      <DependentUpon>FormArea.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormBidimensionalEjemplo1.resx">
+      <DependentUpon>FormBidimensionalEjemplo1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormCajero.resx">
+      <DependentUpon>FormCajero.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormCalif.resx">
+      <DependentUpon>FormCalif.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormCaseta.resx">
+      <DependentUpon>FormCaseta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormConcierto.resx">
+      <DependentUpon>FormConcierto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormDatosAlumnosDocentes.resx">
+      <DependentUpon>FormDatosAlumnosDocentes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormDatosNPaises.resx">
+      <DependentUpon>FormDatosNPaises.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormDatosPaisesMundo.resx">
+      <DependentUpon>FormDatosPaisesMundo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormEjercicio1.resx">
+      <DependentUpon>FormEjercicio1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormEmbotelladora.resx">
+      <DependentUpon>FormEmbotelladora.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormFiguras.resx">
+      <DependentUpon>FormFiguras.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormGrados.resx">
+      <DependentUpon>FormGrados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormMatriz.resx">
+      <DependentUpon>FormMatriz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormMayorEdad.resx">
+      <DependentUpon>FormMayorEdad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormMesero.resx">
+      <DependentUpon>FormMesero.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormMiPrimerArrayList.resx">
+      <DependentUpon>FormMiPrimerArrayList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormMiPrimerProyecto.resx">
+      <DependentUpon>FormMiPrimerProyecto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormOperacion.resx">
+      <DependentUpon>FormOperacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormPerritos.resx">
+      <DependentUpon>FormPerritos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormPersonas.resx">
+      <DependentUpon>FormPersonas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormPreguntas.resx">
+      <DependentUpon>FormPreguntas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormRecibo.resx">
+      <DependentUpon>FormRecibo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormRepartidor.resx">
+      <DependentUpon>FormRepartidor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormRestaurante.resx">
+      <DependentUpon>FormRestaurante.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormSnake.resx">
+      <DependentUpon>FormSnake.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormTorneo.resx">
+      <DependentUpon>FormTorneo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormVacaciones.resx">
+      <DependentUpon>FormVacaciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormVehiculos.resx">
+      <DependentUpon>FormVehiculos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormWFBidi1.resx">
+      <DependentUpon>FormWFBidi1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormWFBidi2.resx">
+      <DependentUpon>FormWFBidi2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmInforme.resx">
+      <DependentUpon>frmInforme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Imprimir.resx">
+      <DependentUpon>Imprimir.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Informe.resx">
+      <DependentUpon>Informe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\OperacionesWFBidi2.resx">
+      <DependentUpon>OperacionesWFBidi2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Preguntas.resx">
+      <DependentUpon>Preguntas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormWFBidi1Arc.resx">
+      <DependentUpon>FormWFBidi1Arc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Forms\Reglamento.resx">
+      <DependentUpon>Reglamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Reglamentocs.resx">
+      <DependentUpon>Reglamentocs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Snake.resx">
+      <DependentUpon>Snake.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\TrianguloForm.resx">
+      <DependentUpon>TrianguloForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Unidad1.resx">
+      <DependentUpon>Unidad1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Unidad2.resx">
+      <DependentUpon>Unidad2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Unidad4.resx">
+      <DependentUpon>Unidad4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Unidad5.resx">
+      <DependentUpon>Unidad5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Unidad6.resx">
+      <DependentUpon>Unidad6.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TECNM.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\materials.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Documents\Tec parte 2\Jacqueline\PrograOO\Proyectos POO\Proyectos\Unidad 5\Unidad5\DatosNPaises\DatosNPaises.csproj">
+      <Project>{070FE442-C900-43FD-BA31-5BC6BA41559D}</Project>
+      <Name>DatosNPaises</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
